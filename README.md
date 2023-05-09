@@ -43,5 +43,5 @@ The user can import the properties of lights from a file by clicking the "Import
 ### Light solo mode
 The user can enable solo mode for a light by clicking on the corresponding checkbox in the list of lights. When solo mode is enabled for a light, all other lights in the scene will be disabled.
 
-# Contributing
+## Contributing
 This project is open source and contributions are welcome. To contribute, please fork the repository, make your changes, and submit a pull request.
