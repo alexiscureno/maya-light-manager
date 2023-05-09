@@ -28,6 +28,7 @@ import lightmanager
 
 importlib.reload(lightmanager)
 ```
+Alternatively, you can create a shelf button in Maya and add the above code to the command field of the button.
 
 
 ## Features
