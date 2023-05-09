@@ -22,6 +22,14 @@ To install the Lighting Manager tool, follow these steps:
 4. In the Script Editor, go to File > Load Script... and select the "lighting_manager.py" file.
 5. Once the script has loaded, run the following command in the Python console:
 
+```
+import importlib
+import lightmanager
+
+importlib.reload(lightmanager)
+```
+
+
 ## Features
 The Lighting Manager GUI provides the following features:
 
